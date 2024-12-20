@@ -1,0 +1,1189 @@
+[
+    {
+        "index": 88,
+        "explanation": [
+            "Cinematization Effects",
+            "Movie-poster like composition of ordinary scenes",
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 162,
+        "explanation": [
+            "Misaligned body panels",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 215,
+        "explanation": [
+            "Distorted window reflections",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural pose artifacts",
+            "Unnatural color transitions",
+            "Discontinuous surfaces",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 62,
+        "explanation": [
+            "Misaligned body panels",
+            "Unrealistic specular highlights",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 76,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 163,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 89,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 175,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Artificial smoothness",
+            "Synthetic material appearance",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 48,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 217,
+        "explanation": [
+            "Cinematization Effects",
+            "Artificial smoothness",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 202,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 216,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 49,
+        "explanation": [
+            "Misaligned body panels",
+            "Aliasing along high-contrast edges",
+            "Color coherence breaks"
+        ]
+    },
+    {
+        "index": 75,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 158,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 65,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Multiple inconsistent shadow sources",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 71,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 206,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 207,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Physically impossible structural elements"
+        ]
+    },
+    {
+        "index": 213,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Movie-poster like composition of ordinary scenes",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 70,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 58,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 165,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Synthetic material appearance",
+            "Dramatic lighting that defies natural physics",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors"
+        ]
+    },
+    {
+        "index": 167,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 8,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 72,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 66,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 205,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 211,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 238,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 210,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 204,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Spatial relationship errors",
+            "Unnatural color transitions",
+            "Discontinuous surfaces",
+            "Physically impossible structural elements"
+        ]
+    },
+    {
+        "index": 199,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 67,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 166,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 98,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Color coherence breaks",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 129,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 115,
+        "explanation": [
+            "Misaligned body panels",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 101,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Color coherence breaks",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 14,
+        "explanation": [
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions",
+            "Discontinuous surfaces",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 28,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 276,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 114,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 128,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Synthetic material appearance",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 102,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 274,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 249,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Floating or disconnected components"
+        ]
+    },
+    {
+        "index": 113,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Multiple light source conflicts",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors"
+        ]
+    },
+    {
+        "index": 264,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 110,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 104,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 299,
+        "explanation": [
+            "Misaligned body panels",
+            "Movie-poster like composition of ordinary scenes",
+            "Aliasing along high-contrast edges",
+            "Color coherence breaks",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 108,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 281,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 295,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 294,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 280,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 257,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 34,
+        "explanation": [
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 137,
+        "explanation": [
+            "Cinematization Effects",
+            "Movie-poster like composition of ordinary scenes",
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 36,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 296,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Discontinuous surfaces",
+            "Physically impossible structural elements"
+        ]
+    },
+    {
+        "index": 240,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 37,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 23,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 122,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 27,
+        "explanation": [
+            "Multiple inconsistent shadow sources",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 33,
+        "explanation": [
+            "Artificial smoothness",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 250,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 278,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 293,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 286,
+        "explanation": [
+            "Artificial smoothness",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 245,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 251,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 32,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 119,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Exaggerated characteristic features",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 18,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 253,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 284,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 246,
+        "explanation": [
+            "Cinematization Effects",
+            "Artificial smoothness",
+            "Movie-poster like composition of ordinary scenes",
+            "Discontinuous surfaces",
+            "Abruptly cut off objects",
+            "Physically impossible structural elements"
+        ]
+    },
+    {
+        "index": 31,
+        "explanation": [
+            "Cinematization Effects",
+            "Artificial smoothness",
+            "Dramatic lighting that defies natural physics",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 118,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 130,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 143,
+        "explanation": [
+            "Misaligned body panels",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 42,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 194,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 208,
+        "explanation": [
+            "Misaligned body panels",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 181,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 195,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Movie-poster like composition of ordinary scenes",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 57,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 156,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 96,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 168,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 69,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 197,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 222,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Cinematization Effects",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 237,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Floating or disconnected components"
+        ]
+    },
+    {
+        "index": 182,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 40,
+        "explanation": [
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 169,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 151,
+        "explanation": [
+            "Misaligned body panels",
+            "Exaggerated characteristic features",
+            "Synthetic material appearance",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces",
+            "Irregular proportions in mechanical components",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 93,
+        "explanation": [
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 78,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 2,
+        "explanation": [
+            "Artificial smoothness",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 50,
+        "explanation": [
+            "Misaligned body panels",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 232,
+        "explanation": [
+            "Scale inconsistencies within the same object class",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 51,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 45,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Anatomically impossible joint configurations",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural pose artifacts",
+            "Scale inconsistencies within single object"
+        ]
+    },
+    {
+        "index": 193,
+        "explanation": [
+            "Unrealistic specular highlights",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 178,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Artificial smoothness",
+            "Spatial relationship errors",
+            "Aliasing along high-contrast edges",
+            "Discontinuous surfaces"
+        ]
+    },
+    {
+        "index": 150,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 144,
+        "explanation": [
+            "Misaligned body panels",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges",
+            "Abruptly cut off objects"
+        ]
+    },
+    {
+        "index": 191,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 185,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 1,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 47,
+        "explanation": [
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 224,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Ghosting effects: Semi-transparent duplicates of elements",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Unnatural color transitions"
+        ]
+    },
+    {
+        "index": 46,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts"
+        ]
+    },
+    {
+        "index": 184,
+        "explanation": [
+            "Anatomically incorrect paw structures",
+            "Impossible foreshortening in animal bodies",
+            "Anatomically impossible joint configurations",
+            "Aliasing along high-contrast edges"
+        ]
+    },
+    {
+        "index": 190,
+        "explanation": [
+            "Misaligned body panels",
+            "Cinematization Effects",
+            "Synthetic material appearance",
+            "Unrealistic specular highlights",
+            "Spatial relationship errors"
+        ]
+    },
+    {
+        "index": 91,
+        "explanation": [
+            "Multiple inconsistent shadow sources",
+            "Aliasing along high-contrast edges",
+            "Artificial enhancement artifacts",
+            "Abruptly cut off objects"
+        ]
+    },
+    {
+        "index": 153,
+        "explanation": [
+            "Impossible foreshortening in animal bodies",
+            "Exaggerated characteristic features",
+            "Unrealistic specular highlights",
+            "Aliasing along high-contrast edges",
+            "Unnatural color transitions"
+        ]
+    }
+]
