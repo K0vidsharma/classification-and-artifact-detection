@@ -1,6 +1,34 @@
-# Project Structure
+# AI-Generated Image classification and Artifact Detection
 
 This repository contains the implementation of two tasks, with their respective datasets, models, and results organized as follows:
+
+# Repository Structure
+```
+.
+├── AI Image Artifacts.txt
+├── Adobe Additional PS Info.pdf
+├── LICENSE
+├── PS-7.pdf
+├── PS-7_Team-57
+│   ├── 57_task1.json
+│   ├── 57_task2.json
+│   ├── Task-1
+│   │   ├── freqnet.py
+│   │   ├── inference.py
+│   │   ├── resnet.py
+│   │   ├── train.ipynb
+│   │   └── wavelet.py
+│   ├── Task-2
+│   │   ├── CLIP.ipynb
+│   │   ├── Explaination.py
+│   │   ├── VLM_inference.py
+│   │   ├── VLM_train.py
+│   │   ├── classification_results.json
+│   │   └── raw_explaination.json
+│   ├── report.pdf
+│   └── requriments.txt
+└── README.md
+```
 
 ## Task 1
 - **Dataset**: Contains the data used for Task 1.
@@ -13,6 +41,8 @@ This repository contains the implementation of two tasks, with their respective 
 - **Model**: Includes the model and associated scripts for training and evaluation.
 - **Results**: 
   - JSON file with explanations generated for Task 2.
+
+
 # Directory  Overview:
 ## Task 1:
 - model_checkpoint.pth.tar: The checkpoint of the final classification model.
