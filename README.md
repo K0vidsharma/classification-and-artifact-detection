@@ -1,6 +1,6 @@
 # AI-Generated Image classification and Artifact Detection
 
-This repository contains the implementation of two tasks, with their respective datasets, models, and results organized as follows:
+This repository contains team-57's implementation of Problem Statement-7 of InterIIT Tech Meet 13.
 
 # Repository Structure
 ```
