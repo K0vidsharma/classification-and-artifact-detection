@@ -1,0 +1,72 @@
+# List of Artifacts
+
+- Inconsistent object boundaries
+- Discontinuous surfaces
+- Non-manifold geometries in rigid structures
+- Floating or disconnected components
+- Asymmetric features in naturally symmetric objects 
+- Misaligned bilateral elements in animal faces 
+- Irregular proportions in mechanical components 
+- Texture bleeding between adjacent regions
+- Texture repetition patterns
+- Over-smoothing of natural textures 
+- Artificial noise patterns in uniform surfaces
+- Unrealistic specular highlights
+- Inconsistent material properties
+- Metallic surface artifacts 
+- Dental anomalies in mammals 
+- Anatomically incorrect paw structures
+- Improper fur direction flows
+- Unrealistic eye reflections
+- Misshapen ears or appendages
+- Impossible mechanical connections
+- Inconsistent scale of mechanical parts
+- Physically impossible structural elements
+- Inconsistent shadow directions
+- Multiple light source conflicts
+- Missing ambient occlusion
+- Incorrect reflection mapping
+- Incorrect perspective rendering
+- Scale inconsistencies within single objects
+- Spatial relationship errors
+- Depth perception anomalies
+- Over-sharpening artifacts
+- Aliasing along high-contrast edges
+- Blurred boundaries in fine details
+- Jagged edges in curved structures
+- Random noise patterns in detailed areas
+- Loss of fine detail in complex structures
+- Artificial enhancement artifacts
+- Incorrect wheel geometry
+- Implausible aerodynamic structures
+- Misaligned body panels
+- Impossible mechanical joints
+- Distorted window reflections
+- Anatomically impossible joint configurations
+- Unnatural pose artifacts
+- Biological asymmetry errors
+- Regular grid-like artifacts in textures
+- Repeated element patterns
+- Systematic color distribution anomalies
+- Frequency domain signatures
+- Color coherence breaks
+- Unnatural color transitions
+- Resolution inconsistencies within regions
+- Unnatural Lighting Gradients
+- Incorrect Skin Tones
+- Fake depth of field
+- Abruptly cut off objects
+- Glow or light bleed around object boundaries
+- Ghosting effects: Semi-transparent duplicates of elements
+- Cinematization Effects
+- Excessive sharpness in certain image regions
+- Artificial smoothness
+- Movie-poster like composition of ordinary scenes
+- Dramatic lighting that defies natural physics
+- Artificial depth of field in object presentation
+- Unnaturally glossy surfaces
+- Synthetic material appearance
+- Multiple inconsistent shadow sources
+- Exaggerated characteristic features
+- Impossible foreshortening in animal bodies
+- Scale inconsistencies within the same object class
