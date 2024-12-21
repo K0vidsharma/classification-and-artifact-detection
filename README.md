@@ -2,7 +2,34 @@
 
 This repository contains team-57's implementation of Problem Statement-7 of InterIIT Tech Meet 13.
 
-# Repository Structure
+Dataset for task-1: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
+
+Training Notebook for task-1: https://www.kaggle.com/code/k0vidsharma/kovid-adobe-ensemble
+
+Model for task-1(Kaggle Link): https://www.kaggle.com/models/k0vidsharma/resnet50-freqnet-waveletattention/
+
+#### Team Members:
+1. Kovid Sharma (Team Lead)
+2. Bathula Satwik
+3. Gouri Verma
+4. Sai Nikhita Palisett
+5. Aditya Giri
+6. Unmilan Das
+
+## Installation and Downloads
+#### Installing Pytorch Wavelets for task-1
+```bash
+$ git clone https://github.com/fbcotter/pytorch_wavelets
+$ cd pytorch_wavelets
+$ pip install .
+```
+#### Installing the remaining libraries
+
+```bash
+$ pip install -r requirements.txt
+```
+
+## Repository Structure
 ```
 .
 ├── AI Image Artifacts.txt
@@ -25,12 +52,13 @@ This repository contains team-57's implementation of Problem Statement-7 of Inte
 │   │   ├── VLM_train.py
 │   │   ├── classification_results.json
 │   │   └── raw_explaination.json
+│   ├── presentation.pdf
 │   ├── report.pdf
 │   └── requriments.txt
 └── README.md
 ```
 
-## Task 1
+<!-- ## Task 1
 - **Dataset**: Contains the data used for Task 1.
 - **Model**: Includes the model and associated scripts for training and evaluation.
 - **Results**: 
@@ -40,37 +68,7 @@ This repository contains team-57's implementation of Problem Statement-7 of Inte
 - **Dataset**: Contains the data used for Task 2.
 - **Model**: Includes the model and associated scripts for training and evaluation.
 - **Results**: 
-  - JSON file with explanations generated for Task 2.
-
-
-# Directory  Overview:
-## Task 1:
-- model_checkpoint.pth.tar: The checkpoint of the final classification model.
-- train.ipynb: Code for training
-- resnet.py: The Code of our custom resnet50 included with freqnet and wavelet attention.
-- wavelet.py: Code of wavelet attention.
-- freqnet.py: Code of Freqnet Attention.
-- pytorch_wavelets: Library used to create wavelet models.
-- inference.py: code for infference
-## Task 2: 
-- CLIP.ipynb: Code for Identification of Artifacts
-- Explanation.py: Code for Explanation of Artifacts
-- Dataset.zip: Dataset created by us for fine tuning the VLM
-- VLM_train.py: The training code for Idefics8B
-- VLM_inference.py: The inference code for Idefics8B
-- classification_results.json
-- raw_explanation.json: this file contain the output given by the model
-
-57_task1.json
-
-57_task2.json
-
-requirements.txt
-
-report.pdf
-
-README.md
-
+  - JSON file with explanations generated for Task 2. -->
 
 # Pipeline Of Our project:
 
@@ -123,7 +121,11 @@ The Task 2 pipeline generates explanations for images detected as fake by the Ta
 - *Logging Steps*: Logs are generated every 5 steps to monitor the process.
 - *Checkpoint Management*: Checkpoint saving is limited to ensure efficiency.
 
-## Installation
+# References
+1. ResNet code inspired from: https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/CNN_architectures/pytorch_resnet.py
 
-```bash
-pip install -r requirements.txt 
+2. Pytorch Wavelets: Cotter, F. (2019). Uses of Complex Wavelets in Deep Convolutional Neural Networks [Apollo - University of Cambridge Repository]. https://doi.org/10.17863/CAM.53748
+
+
+
+
