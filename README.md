@@ -12,7 +12,7 @@ Model for task-1(Kaggle Link): https://www.kaggle.com/models/k0vidsharma/resnet5
 1. Kovid Sharma (Team Lead)
 2. Bathula Satwik
 3. Gouri Verma
-4. Sai Nikhita Palisett
+4. Sai Nikhita Palisetty
 5. Aditya Giri
 6. Unmilan Das
 
